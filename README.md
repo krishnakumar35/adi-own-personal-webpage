@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://adityaketkar.netlify.app/">
+  <a href="https://adityakumaraj.netlify.app/">
     <img src="images/logo.png" alt="Logo" width="60%" height="40%">
   </a>
 
@@ -21,11 +21,11 @@
     A Customizable Personal-Website Template, Ready to Deploy in 10 mins!
     <br />
     <br />
-    <a href="https://adityaketkar.netlify.app/">View Demo</a>
+    <a href="https://adityakumaraj.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/adityaketkar/circle-packing-personal-homepage/issues">Report Bug</a>
+    <a href="https://github.com/krishnakumar35/adi-own-personal-webpage/issues">Report Bug</a>
     ·
-    <a href="https://github.com/adityaketkar/circle-packing-personal-homepage/issues">Request Feature</a>
+    <a href="https://github.com/krishnakumar35/adi-own-personal-webpage/issues">Request Feature</a>
   </p>
 </p>
 
@@ -73,12 +73,12 @@ The whole tutorial is available in **video format** [here](http://www.youtube.co
 If you just want to use the template, no need to clone/download this repo. The following steps show how to launch your own website : 
 1. Click the following button 👇 (Make sure you have a Github account before starting)
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/adityaketkar/circle-packing-personal-homepage"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+<a href="https://app.netlify.com/start/deploy?repository="https://github.com/krishnakumar35/adi-own-personal-webpage"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
 2. After clicking that button, you’ll authenticate with GitHub and choose a repository name. Netlify will then automatically create a repository in your GitHub account with a copy of the files from the template. Next, it will build and deploy the new site on Netlify, bringing you to the site dashboard when the build is complete. 
 
 3. The site should now be live at the URL shown to you by Netlify. Let's now change the content of the site to make it YOURS :)
-Firstly, upload all the photos you want to use in your website to [imgur](https://imgur.com/upload). Take a look at the [demo](https://adityaketkar.netlify.app/) to decide what photos you would like to use.
+Firstly, upload all the photos you want to use in your website to [imgur](https://imgur.com/upload). Take a look at the [demo](https://adityakumaraj.netlify.app/) to decide what photos you would like to use.
 
 4. Now, open your github account and navigate to the cloned repository (a clone of this project) that Netlify made for you. Then go to 
 
@@ -97,7 +97,7 @@ Firstly, upload all the photos you want to use in your website to [imgur](https:
 	
 9. Share this repo with people you think can benefit from this project 🙂
 
-**Note** : Change the ```BackgroundURL``` value in ```mycontent.json``` to add a custom background (use imgur to host the background image). Leave it to ```""``` to use the default circle-packing background. Explaination on this can be found [here](https://github.com/adityaketkar/circle-packing-personal-homepage/wiki/Guidelines-for-editing-mycontent.json)
+**Note** : Change the ```BackgroundURL``` value in ```mycontent.json``` to add a custom background (use imgur to host the background image). Leave it to ```""``` to use the default circle-packing background. Explaination on this can be found [here])
 
 ### Possible Errors during Deploying
 * Your JSON syntax for `mycontent.json` might be faulty. Validate it using [this](https://jsonlint.com/) tool (Simply copy-paste the contents of `mycontent.json` on the website).
