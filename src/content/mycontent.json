@@ -2,7 +2,7 @@
 	"Title": "Aditya Kumar | Personal Webpage",
 	"Name": "Aditya KUMAR",
 	"Description": [
-		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
+		"Recent graduate from BITS Pilani. Passionate about mechanical design, Cognitive Modelling and Open Source.",
 		"I grab every chance I get to travel, learn and create."
 	],
 	"MainImage": "https://i.imgur.com/AYq5pXG.jpg",
@@ -10,19 +10,19 @@
 
 	"AboutImage": "https://i.imgur.com/h98vCIZ.jpg",
 	"AboutContent": [
-		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
+		"I’m a mechanic major by day, a Table Tech master by evening, a functional wantrepreneur by midnight and a hustler always.",
 		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
-		"I am passionate about Space Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
+		"I am passionate about space technology and car modifications (though, never studied them formally). A die-hard fan of Elon Musk.",
 		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
 	],
 
 	"WorkContent": [
-		"I am currently full time Software Developer Engineer at Microsoft."
+		"I am currently full time mechanical Engineer at own garage."
 	],
 	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
-			"name": "Amazon India",
+			"name": " home ",
 			"link": "#"
 		},
 		{
